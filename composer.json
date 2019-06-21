@@ -1,5 +1,5 @@
 {
-    "name": "onurb/excel-bundle",
+    "name": "cyberclick-os/excel-bundle",
     "description": "Symfony Bundle to read or write Excel file (including pdf, xlsx, odt), using phpoffice/phpspreadsheet library (replacement of phpoffice/phpexcel, abandonned)",
     "type": "symfony-bundle",
     "license": "MIT",
